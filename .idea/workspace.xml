@@ -54,6 +54,7 @@
   <component name="PropertiesComponent">
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/server/src" />
@@ -794,10 +795,10 @@
     </state>
     <state x="578" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1582339453154" />
     <state x="421" y="-782" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.-1057.1080.1897/0.23.1680.1027/-240.-1057.1920.1057@-240.-1057.1920.1057" timestamp="1580269119362" />
-    <state x="372" y="23" width="958" height="1027" key="CommitChangelistDialog2" timestamp="1582013232153">
+    <state x="372" y="23" width="958" height="1027" key="CommitChangelistDialog2" timestamp="1582346353310">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="372" y="23" width="958" height="1027" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1582013232153" />
+    <state x="372" y="23" width="958" height="1027" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1582346353310" />
     <state x="185" y="-1029" key="CommitChangelistDialog2/1680.-1057.1080.1897/-240.-1057.1920.1057/0.23.1680.1027@-240.-1057.1920.1057" timestamp="1580969263741" />
     <state x="224" y="50" key="CommitChangelistDialog2/1680.-1057.1080.1897/-240.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1580389095710" />
     <state x="185" y="-1029" key="CommitChangelistDialog2/1680.-1057.1080.1897/0.23.1680.1027/-240.-1057.1920.1057@-240.-1057.1920.1057" timestamp="1581143266866" />
@@ -894,10 +895,10 @@
     <state x="692" y="451" key="VCS.ChangelistChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1581484481699" />
     <state x="551" y="-616" key="VCS.ChangelistChooser/1680.-1057.1080.1897/-240.-1057.1920.1057/0.23.1680.1027@-240.-1057.1920.1057" timestamp="1580371442518" />
     <state x="551" y="-616" key="VCS.ChangelistChooser/1680.-1057.1080.1897/0.23.1680.1027/-240.-1057.1920.1057@-240.-1057.1920.1057" timestamp="1580704459000" />
-    <state x="440" y="272" key="Vcs.Push.Dialog.v2" timestamp="1582013303612">
+    <state x="440" y="272" key="Vcs.Push.Dialog.v2" timestamp="1582346356790">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="272" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1582013303612" />
+    <state x="440" y="272" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1582346356790" />
     <state x="263" y="-801" key="Vcs.Push.Dialog.v2/1680.-1057.1080.1897/-240.-1057.1920.1057/0.23.1680.1027@-240.-1057.1920.1057" timestamp="1580969266360" />
     <state x="440" y="272" key="Vcs.Push.Dialog.v2/1680.-1057.1080.1897/-240.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1580389105260" />
     <state x="263" y="-801" key="Vcs.Push.Dialog.v2/1680.-1057.1080.1897/0.23.1680.1027/-240.-1057.1920.1057@-240.-1057.1920.1057" timestamp="1581143269637" />

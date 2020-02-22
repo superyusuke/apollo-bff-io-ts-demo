@@ -1,13 +1,5 @@
-## 開発ディレクトリは `/server`
+Apollo Japan User Group のための資料です。
 
-本アプリケーションのメイン開発ディレクトリは `/server` です。
+io-ts を使って Remote API からフェッチした値の型チェックを動的に行うデモです。
 
-### 仕様技術
-
-Apollo Server(GraphQL) + TypeScript の BFF です。
-
-### .env.example
-
-`.env.example` のファイル名を `.env` に変更し、必要な値を定義してください
-
-アプリケーション内から参照されます
+これにより GraphQL の型安全の最後の鬼門であった API からフェッチしたデータに型安全をもたらします。
