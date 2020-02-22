@@ -1,0 +1,51 @@
+{
+  "name": "apollo-bff-io-ts-demo",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "start:dev": "NODE_ENV=development webpack",
+    "run:dev": "NODE_ENV=development nodemon build/index.js",
+    "test": "NODE_ENV=test jest --forceExit",
+    "codegen": "gql-gen --watch"
+  },
+  "devDependencies": {
+    "@graphql-codegen/cli": "^1.11.2",
+    "@graphql-codegen/typescript": "^1.11.2",
+    "@graphql-codegen/typescript-resolvers": "^1.11.2",
+    "@types/jest": "^24.9.1",
+    "@types/node": "^13.5.0",
+    "apollo-server-testing": "^2.9.16",
+    "jest": "^25.1.0",
+    "nodemon": "^2.0.2",
+    "supertest": "^4.0.2",
+    "test": "^0.6.0",
+    "ts-jest": "^25.0.0",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.5",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-node-externals": "^1.7.2",
+    "webpack-shell-plugin": "^0.5.0"
+  },
+  "dependencies": {
+    "@graphql-codegen/introspection": "^1.12.1",
+    "@manifoldco/swagger-to-ts": "^1.7.0",
+    "@types/express": "^4.17.2",
+    "@types/stream-to-promise": "^2.2.0",
+    "apollo-datasource-rest": "^0.6.11",
+    "apollo-server": "^2.9.16",
+    "axios": "^0.19.2",
+    "dotenv-webpack": "^1.7.0",
+    "express": "^4.16.4",
+    "fp-ts": "^2.5.0",
+    "graphql": "^14.6.0",
+    "graphql-upload": "^10.0.0",
+    "io-ts": "^2.1.0",
+    "prettier": "^1.19.1",
+    "server": "^1.0.22",
+    "stream-to-promise": "^2.2.0",
+    "swagger-to-io-ts": "^0.1.1"
+  }
+}

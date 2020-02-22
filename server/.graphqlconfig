@@ -1,0 +1,8 @@
+{
+  "name": "GraphQL Schema",
+  "projects": {
+    "main": {
+      "schemaPath": "schema.graphql"
+    }
+  }
+}

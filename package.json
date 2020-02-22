@@ -1,0 +1,11 @@
+{
+  "name": "apollo-bff-io-ts-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nakanishi, Yusuke",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^1.18.2",
+    "querystring": "^0.2.0"
+  }
+}
